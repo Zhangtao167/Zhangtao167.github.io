@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Tao Zhang"
-description              : "Tao Zhang dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+description              : #"Tao Zhang dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
 repository               : "Zhangtao167/Zhangtao167.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Tao Zhang"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Tao Zhang College"
+  bio              : #"Tao Zhang College"
   location         : "Hangzhou, China"
   employer         :
   pubmed           : 
