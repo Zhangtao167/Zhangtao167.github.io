@@ -34,9 +34,8 @@ My current research focuses on how to analyze the controllability and observabil
 # 📖 Educations
 - *2020.09 - 2024.06 *, B.S. in Wuhan University 
 - *2024.09 - now *, PhD in Westlake University & Zhejiang University 
+
 <!-- # 🔥 News -->
-<!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📝 Publications 
 
