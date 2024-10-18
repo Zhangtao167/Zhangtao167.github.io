@@ -19,7 +19,7 @@ redirect_from:
 
 Here is **Tao Zhang (Tao, 张涛)**.
 
-I am a senior student majoring in Automation at Wuhan University. In the fall of 2024, I will be enrolled in the School of Engineering at Westlake University, majoring in Computer Science under the supervision of Professor [Tailin Wu](https://tailin.org/). In the future, I hope to integrate control theory and artificial intelligence to make impactful contributions.
+I am a Ph.D. student in the School of Engineering at Westlake University, majoring in Computer Science under the supervision of Professor [Tailin Wu](https://tailin.org/). In the future, I hope to integrate control theory and artificial intelligence to make impactful contributions.
 
 If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *zhangtao@westlake.edu.cn*
 
@@ -27,7 +27,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 # Research Interests
 - Control Theory
 - Machine learning
-- complex Systems
+- Complex Systems
 
 My current research focuses on how to analyze the controllability and observability of complex systems and control or even design them with machine learning.
 
