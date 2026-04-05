@@ -39,6 +39,8 @@ My current research focuses on how to analyze the controllability and observabil
 
 # 📝 Publications 
 
+- **Feb 2025：** ICLR(2026), [VFScale: Intrinsic Reasoning through Verifier-Free Test-time Scalable Diffusion Model](https://arxiv.org/abs/2502.01989), Tao Zhang\*, Jia-Shu Pan\*, Ruiqi Feng, Tailin Wu\*†.
+
 - **Feb 2024：** ICLR(2024,spotlight), [Compositional Generative Inverse Design](https://arxiv.org/abs/2401.13171), Tailin Wu*, Takashi Maruyama*, Long Wei*, Tao Zhang*, Yilun Du*, Gianluca Iaccarino, Jure Leskovec.
 
 <!-- # 🎖 Honors and Awards
